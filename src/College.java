@@ -5,6 +5,8 @@ public class College {
 
         System.out.println(var1);
 
+        ArithmeticOperator.staticVariable
+
         int var2 = 20;
 
         if (true){
